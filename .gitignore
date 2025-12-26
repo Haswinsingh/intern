@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data & generated files
+data/
+
+# ngrok
+ngrok.exe
+
+# OS files
+.DS_Store
